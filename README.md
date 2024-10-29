@@ -9,7 +9,7 @@
 - 새
 - 연필
 
-```
+```javascript
 function hello() {
   print('hi');
 }
