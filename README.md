@@ -8,3 +8,9 @@
 - 커피
 - 새
 - 연필
+
+```
+function hello() {
+  print('hi');
+}
+```
